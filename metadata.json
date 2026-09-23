@@ -1,0 +1,6 @@
+{
+  "name": "JK Vidros - Limpeza Pós-Obra de Vidros",
+  "description": "Apresentação oficial da JK Vidros: especialista em limpeza técnica de vidros e esquadrias pós-obra, produtos certificados, parceiros, planos por assinatura e orçamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
